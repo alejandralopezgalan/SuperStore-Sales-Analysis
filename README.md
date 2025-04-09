@@ -30,16 +30,12 @@ Image from [storyset](https://storyset.com/search?q=online%20shopping)
   - [Data Source](#data-source)
   - [Tools](#tools)
   - [Data Cleaning](#data-cleaning)
-  - [Extracting data from YouTube](extracting-data-from-youtube)
-  - [Data Transformation in SQL](#data-transformation-in-sql)
-  - [Analysis in Power BI](#analysis-in-power-bi)
-    - [DAX measures](#dax-measures)
+  - [Data Transformation](#data-transformation)
+  - [Analysis](#analysis)
     - [Data Visualisation](#data-visualisation)
-
 - [Insights](#insights)
-    - [Collaboration Recommendations](#collaboration-recommendations)
-    - [Potential Return on Investment](#potential-return-on-investment)
 - [Action Plan](#action-plan)	 
+- [Excel Report](#excel-report)	
 
 
 ## Executive Summary
@@ -56,23 +52,13 @@ Image from [storyset](https://storyset.com/search?q=online%20shopping)
 
 
 ### Recommendations
-- Collaborate with Fede Vigevani to maximise visibility, as this channel has the most YouTube subscribers in Mexico and the highest average views per video.
-- Consider potential partnerships with Masha y el Oso and YOLO AVENTURAS, as they attract high engagement on their channels consistently.
-- Avoid influencer marketing campaigns with the channels that have the most videos uploaded (Badabun, Tu COSMOPOLIS, and Tlnovelas) due to lower potential return on investment.
-- Reach out to the Fede Vigevani team to negotiate contracts within allocated budgets, kick off campaigns, track performance, review progress, gather insights, and optimise based on feedback from converted customers and each channel's audiences.
-- Explore potential partnerships with other influencers such as Masha y el Oso and YOLO AVENTURAS in the future.
 
 ## Introduction
 
 ### Business Problem
-The marketing team needs to identify and collaborate with the most influential Mexican YouTubers to maximise the effectiveness of their marketing campaigns. Currently, they lack a comprehensive and easily accessible tool that provides insights into key metrics such as subscriber count, total views, total videos, and engagement metrics. This gap hinders their ability to make informed decisions about which YouTubers to partner with for optimal campaign performance.
 
 ### Goals
-1. Develop an Interactive Dashboard: Create a user-friendly dashboard using Power BI to visualise data on the top Mexican YouTubers in 2024.
-2. Data Collection and Integration: Gather comprehensive data on subscriber counts, total views, total videos, and engagement metrics for the top YouTubers in Mexico.
-3. Insight Generation: Analyse the collected data to identify trends and patterns among the top YouTubers.
-4. Support Informed Decision-Making: Equip the marketing team with actionable insights to identify the best YouTubers for collaboration.
-5. Customisable Features: Allow for customisable views and filters within the dashboard to cater to the specific needs and preferences of the marketing team.
+1. 
 
 ## Methodology
 
@@ -94,18 +80,16 @@ This dataset provides structured information about the top 100 YouTubers from Me
 
 ### Tools
 - Excel: To explore the data.
-- PostgreSQL: To clean, test, and analyse the data.
-- Power BI: To visualise the data via interactive dashboards.
-- GitHub: To host the project documentation and version control.
+
 
 ### Data Cleaning
 
 
-### Data Transformation in SQL
+### Data Transformation
 
 
 
-### Analysis in Power BI
+### Analysis 
 
 
 
@@ -113,6 +97,8 @@ This dataset provides structured information about the top 100 YouTubers from Me
 
 
 
+
+## Insights
 
 ## Action plan
 
