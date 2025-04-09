@@ -42,7 +42,7 @@ Image from [storyset](https://storyset.com/search?q=online%20shopping)
 
 
 ### Primary Goal
-
+Analyse the superstore dataset to uncover actionable insights that can drive strategic business decisions and improve overall performance. By examining key metrics, such as sales trends, customer demographics, and product categories, we can identify meaningful patterns, highlight growth opportunities, and detect operational inefficiencies.
 
 ### Solution
 
