@@ -56,12 +56,15 @@ Analyse the superstore dataset to uncover actionable insights that can drive str
 ## Introduction
 
 ### Business Problem
+This analysis seeks to tackle critical business challenges by utilising sales data to refine marketing and sales strategies. It explores customer segmentation to identify high-value consumer groups, evaluates product performance to optimise stock levels and increase sales, and examines geographical trends to uncover regional opportunities. Furthermore, it investigates profit margins, sales patterns, and customer behaviour to extract actionable insights that can drive growth, enhance customer satisfaction, and maximise profitability. The ultimate goal is to develop data-driven strategies for business improvement and sustainable expansion.
 
 ### Goals
-1. 
+1. Enhance marketing strategies by identifying high-value consumer groups and tailoring campaigns to their preferences.
+2. Optimise inventory management by analysing product performance and predicting demand for improved stock levels.
+3. Identify regional opportunities through geographical trends to increase sales in underperforming areas.
+4. Maximise profitability by evaluating sales patterns and profit margins to focus efforts on high-impact products or categories.
 
 ## Methodology
-
 ### Data source
 
 The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download). To view the CSV file, click [here](assets/data/youtube_data_mexico.csv).
