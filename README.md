@@ -66,23 +66,37 @@ This analysis seeks to tackle critical business challenges by utilising sales da
 
 ## Methodology
 ### Data source
+[Kaggle](https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset) served as the source for the dataset used in this project. Click [here](assets/data/project3_superstore_orders.csv) to view the CSV file directly.
 
-The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download). To view the CSV file, click [here](assets/data/youtube_data_mexico.csv).
-
-This dataset provides structured information about the top 100 YouTubers from Mexico in 2024. Each entry represents a YouTuber and includes the following attributes:
+This dataset encompasses information on the sales of various products offered by the store, including related details such as geographical data, product categories and subcategories, sales figures, profit margins, and consumer  insights.
 
 | Column name | Description | 
 | :--- | :--- |
-| `#` | The ranking of the YouTuber in the top 100 list |
-| `NAME` | The name or pseudonym of the YouTuber |
-| `FOLLOWERS` | The total number of subscribers the influencer has on YouTube |
-| `ER` | Engagement Rate: The level of interaction that the influencer's content receives from users on social media platforms, expressed as a percentage |
-| `COUNTRY` | The geographical location or country where the YouTuber is based or primarily operates |
-| `TOPIC OF INFLUENCE` | The niche or category in which the YouTuber specialises or creates content, such as fashion, beauty, technology, fitness, etc. |
-| `POTENTIAL REACH` | The estimated number of people who could see a YouTube video or campaign from this influencer |
+| `order_id` | A unique identifier for each order. | 
+| `order_date` | The date when a customer placed an order. | 
+| `ship_date` | The shipping date for an order. | 
+| `ship_mode` | The mode of shipping for each order. | 
+| `customer_name` | The full name of the customer. | 
+| `segment` | The segment type associated with the order. | 
+| `state` | The state where the order was placed. | 
+| `country` | The country where the order was placed. | 
+| `market` | The market related to the order. África = Africa, APAC = Asia and Pacific, Canada = Canada, EMEA = Europe, the Middle East, and Africa, EU = Europe, LATAM = Latin America, US = United States of America. | 
+| `region` | The region within the market where the order was placed. | 
+| `product_id` | A unique identifier for each product. | 
+| `category` | The product's category. | 
+| `sub_category` | The product's subcategory. | 
+| `product_name` | The name of the product. | 
+| `sales` | Total sales in US dollars for an order. | 
+| `quantity` | The quantity of products in each order. | 
+| `discount` | The discount applied to each order. | 
+| `profit` | The profit generated after the sale of each order. | 
+| `shipping_cost` | The shipping cost for every order. | 
+| `order_priority` | The priority level assigned to each order. | 
+| `year` | The year in which the order was placed. | 
+
 
 ### Tools
-- Excel: To explore the data.
+- Excel: To explore, clean, analyse, and visualised the data through a dashboard.
 
 
 ### Data Cleaning
