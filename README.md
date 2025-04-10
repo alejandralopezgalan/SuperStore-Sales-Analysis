@@ -96,7 +96,7 @@ This dataset encompasses information on the sales of various products offered by
 
 
 ### Tools
-- Excel: To explore, clean, analyse, and visualised the data through a dashboard.
+- Excel: To explore, clean, analyse, and visualise the data through a dashboard.
 
 
 ### Data Cleaning
