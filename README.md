@@ -99,15 +99,37 @@ This dataset encompasses information on the sales of various products offered by
 - Excel: To explore, clean, analyse, and visualise the data through a dashboard.
 
 
-### Data Cleaning
+### Data Cleaning and Transformation
+After importing the dataset into Excel and converting the file into an Excel Worksheet, I converted the data into an Excel Table to manage and analyse the data easier. The dataset already contained a `year` column, but I considered best to use an Excel formula to extract the year from the `order_date` colum. First, I changed the format of `order_date` column into a Date, then I used an Excel formula to extract the year, formatted the year as a number with no decimal, and named the colum `order_year`.
+
+In most business each customer has a customer ID assigned, but in this dataset that variable is missing. However, using the `customer_name` variable, it is possible to identify unique customers using a conditional Excel formula to count each time a new customer is added to the database. 
+
+Another variable to count was the unique number of orders. In this case, the database has a `order_id` column, so I used a similar conditional formula to count the unique number of `order_id`s. 
 
 
-### Data Transformation
 
 
 
-### Analysis 
 
+
+
+
+
+### Data Analysis
+Using a Pivot Table, first I calculated the Total Sales, the Total Number of Unique Orders, and the Total Number of Unique Customers. Then, I created a calculated field to estimate the Average Sales per Order, leaving the result with two decimals.
+
+
+### Excel formulas
+| Formula | Description | 
+| :--- | :--- |
+| `=YEAR([@[order_date]])` | Extract the Year from the order date |
+| `=IF(COUNTIF(F$2:F2,F2)=1,1,0) ` | Count each unique customer. If the user is unique, it assigns a 1 value, if the customer is repeated, it assigs a 0.  |
+| `=IF(COUNTIF(A$2:A2,A2)=1,1,0) ` | Count each unique order_id. If an order_id is unique, it assigns a 1 value, if the order_id is repeated, it assigs a 0. |
+| `Avg Sales per Order = sales/ order_unique ` | A calculated field to estimate the average sales per order  |
+| ` ` |  |
+| ` ` |  |
+| ` ` |  |
+| ` ` |  |
 
 
 #### Data Visualisation
