@@ -140,9 +140,8 @@ For **Customer Insights**, two charts were added: one showing the **Total Sales 
 Finally, for **Product Insights**, a bar chart displayed the **Total Sales (USD) by Product Category and Subcategory**, accompanied by a table listing the **Top 10 Best-Selling Products (USD)**.
 ![dahsboard4](assets/img/project3_dahsboard4.png)
 
-A short video of the complete dahsboard
-
-{% include video.liquid path="https://drive.google.com/file/d/111dPfFDfzX9mg0YDtEU5y9WbnzrGqTcV/view?usp=sharing" class="img-fluid rounded z-depth-1" %}
+Watch a brief video showcasing the full dashboard here:
+https://drive.google.com/file/d/111dPfFDfzX9mg0YDtEU5y9WbnzrGqTcV/view?usp=sharing
 
 
 
