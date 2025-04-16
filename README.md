@@ -93,39 +93,47 @@ This dataset provides comprehensive information about the sales of various produ
 | `year` | The year in which the order was placed. | 
 
 ### Tools
-- Excel: To explore, clean, analyse, and visualise the data through a dashboard.
+- Excel: Used for exploring, cleaning, analysing, and visualising the data through a dashboard.
 
 
 ### Data Cleaning and Transformation
-After importing the dataset into Excel and converting the file into an Excel Worksheet, I converted the data into an Excel Table to manage and analyse the data easier. The dataset already contained a `year` column, but I considered best to use an Excel formula to extract the year from the `order_date` colum. First, I changed the format of `order_date` column into a Date, then I used an Excel formula to extract the year, formatted the year as a number with no decimals, and named the colum `order_year`.
+After importing the dataset into Excel and converting the file into an Excel Worksheet, the data was transformed into an Excel Table to facilitate easier management and analysis. The dataset already included a year column; however, it was beneficial to use an Excel formula to extract the year from the `order_date` column. First, the `order_date` column was formatted as a Date. Then, an Excel formula was applied to extract the year, which was subsequently formatted as a number without decimals and named `order_year`.
 
-In most business each customer has a customer ID assigned, but in this dataset that variable is missing. However, using the `customer_name` variable, it was possible to identify unique customers using a conditional Excel formula to count each time a new customer is added to the database. This new variable was named `customer_unique` 
-
-Another variable to count was the unique number of orders. In this case, the database has a `order_id` column, so I used a similar conditional formula to count the unique number of `order_id`s, the new variable was name `order_unique`. 
+In most businesses, each customer is assigned a unique customer ID; however, this variable was missing in the dataset. By leveraging the `customer_name` variable, it was possible to identify unique customers using a conditional Excel formula that counts each time a new customer is added to the database. This new variable was named `customer_unique`. A similar approach was taken to count the unique number of orders. Using the `order_id` column, a conditional formula was applied to count unique order IDs. This newly created variable was named `order_unique`.
 
 
 ### Data Analysis
-The first step was to estimte four KPIs using Pivot Tables: `Total Sales (USD)`, the `Number of Unique Orders`, and the `Number of Unique Customers`. Then, I created a calculated field to estimate the `Average Sales per Order (USD)`, leaving the result with two decimals.
-  
-Using pivot tables I calculate the total sales by quarter and total sales by year using the `order_year` variable to analyse the Sales Trend over time.  
+The initial step involved estimating four KPIs using Pivot Tables: Total Sales (USD), Number of Unique Orders, and Number of Unique Customers. Additionally, a calculated field was created to estimate the Average Sales per Order (USD), with the result displayed to two decimal places.
 
-To analyse regional performances, I use a Pivot Table to see the Total Sales by Market. Then with another pivot table, I selected the Top 10 Countries Leading in Total Sales (USD).
+Pivot Tables were then used to calculate Total Sales by Quarter and Total Sales by Year, employing the `order_year` variable to analyse sales trends over time.
 
-For customers insights, using a pivot table I first estimate the Total Sales (USD) for each of the three segments (Consumer, Corportate, and Home Office). After that, I analyse the Customer Preferences for Shipping Modes in terms of % total orders.
+To evaluate regional performance, a Pivot Table was created to examine Total Sales by Market. Another Pivot Table identified the Top 10 Countries Leading in Total Sales (USD).
 
-Finally, to get some products insights, I used pivot tables to see the Total Sales (USD) by Product Category and Subcategory,  and a table with the Total Sales (USD) of the Top 10 Best-Selling Products in USD.  
+For customer insights, a Pivot Table estimated the Total Sales (USD) for three segments: Consumer, Corporate, and Home Office. Additionally, customer preferences for shipping modes were analysed by calculating the percentage of total orders for each mode.
+Finally, product insights were derived using Pivot Tables to review Total Sales (USD) by Product Category and Subcategory, as well as the Top 10 Best-Selling Products (USD).
+
 
 ### Excel formulas
 | Formula | Description | 
 | :--- | :--- |
 | `=YEAR([@[order_date]])` | Extract the Year from the order date |
-| `=IF(COUNTIF(F$2:F2,F2)=1,1,0) ` | Count each unique customer. If the user is unique, it assigns a 1 value, if the customer is repeated, it assigs a 0.  |
-| `=IF(COUNTIF(A$2:A2,A2)=1,1,0) ` | Count each unique order_id. If an order_id is unique, it assigns a 1 value, if the order_id is repeated, it assigs a 0. |
-| `Avg Sales per Order = sales/ order_unique ` | A calculated field to estimate the average sales per order  |
+| `=IF(COUNTIF(F$2:F2,F2)=1,1,0) ` | Count each unique customer. Assigns a value of 1 if the customer is unique and 0 if the customer is repeated.  |
+| `=IF(COUNTIF(A$2:A2,A2)=1,1,0) ` | Counts each unique `order_id`. Assigns a value of 1 if the `order_id` is unique and 0 if repeated
+. |
+| `Avg Sales per Order = sales/ order_unique ` | A calculated field used to estimate the average sales per order  |
 
 #### Data Visualisation
 
-Then, I added a slicer in the `order_year` to filter the Pivot Table and the final dashboard.
+From all the information derived from the pivot table, the next step was to create a series of visual to add to the Dahsboard. First, two slicers from `order_year` and `market` where added to filter the visuals.
+
+The values from the four KPIs Total Sales (USD), Number of Unique Orders, Number of Unique Customers, and Average Sales per Order (USD) were placed at the top of the dashboard using four cards.
+
+To visualise the Sales Trend, two chats were added. A line chart with the Quarterly Breakdown of Total Sales (USD), and a bar chart with Annual Sales Performance in USD.
+
+![dahsboard1](assets/img/project3_dahsboard1.png)
+
+
+
 
 
 
