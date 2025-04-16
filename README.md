@@ -119,30 +119,30 @@ Finally, product insights were derived using Pivot Tables to review Total Sales 
 | `=IF(COUNTIF(F$2:F2,F2)=1,1,0) ` | Count each unique customer. Assigns a value of 1 if the customer is unique and 0 if the customer is repeated.  |
 | `=IF(COUNTIF(A$2:A2,A2)=1,1,0) ` | Counts each unique `order_id`. Assigns a value of 1 if the `order_id` is unique and 0 if repeated
 . |
-| `Avg Sales per Order = sales/ order_unique ` | A calculated field used to estimate the average sales per order  |
+| `Avg Sales per Order = sales/ order_unique` | A calculated field used to estimate the average sales per order  |
 
 ### Data Visualisation
 
-From all the information derived from the pivot table, the next step was to create a series of visual to add to the Dahsboard. First, two slicers from `order_year` and `market` where added to filter the visuals.
-
-The values from the four KPIs Total Sales (USD), Number of Unique Orders, Number of Unique Customers, and Average Sales per Order (USD) were placed at the top of the dashboard using four cards.
-
-To visualise the Sales Trend, two chats were added. A line chart with the Quarterly Breakdown of Total Sales (USD), and a bar chart with Annual Sales Performance in USD.
-
+Using the insights derived from the pivot tables, the next step involved creating a series of visuals to include in the dashboard. First, two slicers for `order_year` and `market` were added to enable filtering across the visuals.
+The values from four KPIs—**Total Sales (USD), Number of Unique Orders, Number of Unique Customers,** and **Average Sales per Order (USD)**—were displayed at the top of the dashboard using four cards.
+To illustrate the **Sales Trend**, two charts were created: a line chart showing the **Quarterly Breakdown of Total Sales (USD)** and a bar chart depicting the **Annual Sales Performance (USD)**.
 ![dahsboard1](assets/img/project3_dahsboard1.png)
 
-To analyse regional performances a vertical and an horizontal bar chart helped to visuale the Market-Wise Breakdown of Total Sales in USD and the Top 10 Countries Leading in Total Sales (USD). 
 
+To analyse **Regional Performances**, a vertical bar chart was used to present the **Market-Wise Breakdown of Total Sales (USD)**, while a horizontal bar chart highlighted the **Top 10 Countries Leading in Total Sales (USD)**.
 ![dahsboard2](assets/img/project3_dahsboard2.png)
 
-For customers insights, two charts showed the Total Sales Distribution Across Customer Segments, and the Customer Preferences for Shipping Modes in terms of percentage of total.
 
+For **Customer Insights**, two charts were added: one showing the **Total Sales Distribution Across Customer Segments** and the other highlighting **Customer Preferences for Shipping Modes**, expressed as a percentage of total orders.
 ![dahsboard3](assets/img/project3_dahsboard3.png)
 
-Finally, for product insights a bar chart illustrated the Total Sales in USD by Product Category and Subcategory, and a table showed the Top 10 Best-Selling Products in USD
+
+Finally, for **Product Insights**, a bar chart displayed the **Total Sales (USD) by Product Category and Subcategory**, accompanied by a table listing the **Top 10 Best-Selling Products (USD)**.
 ![dahsboard4](assets/img/project3_dahsboard4.png)
 
+A short video of the complete dahsboard
 
+{% include video.liquid path="https://drive.google.com/file/d/111dPfFDfzX9mg0YDtEU5y9WbnzrGqTcV/view?usp=sharing" class="img-fluid rounded z-depth-1" %}
 
 
 
