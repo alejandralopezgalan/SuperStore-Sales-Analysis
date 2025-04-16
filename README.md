@@ -143,12 +143,10 @@ Finally, for **Product Insights**, a bar chart displayed the **Total Sales (USD)
 
 
 Watch a brief video showcasing the full dashboard by clicking the following link:
-[Dashboard video](https://drive.google.com/file/d/111dPfFDfzX9mg0YDtEU5y9WbnzrGqTcV/view?usp=sharing)
-
-
-
+[Dashboard video](https://drive.google.com/file/d/1J2LMMTNDKyyFertDwxGtnSNyTvPK9O2B/view?usp=sharing)
 
 ## Insights
+The Total Sales in USD dollars from 2011 to 2014 are $12,642,905, with 25,035 unique orders, 795 unique customers, and an Average Sales per Order of $505.01 USD.
 
 ## Action plan
 
