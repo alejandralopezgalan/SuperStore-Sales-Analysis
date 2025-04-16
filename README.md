@@ -1,4 +1,4 @@
-# Superstore Sales Analysis
+![image](https://github.com/user-attachments/assets/76eeabf1-4b62-47e6-adda-ef36b44e2c09)# Superstore Sales Analysis
 An Excel-based project analysing sales data to uncover actionable insights and optimise marketing and sales strategies
 
 <img src="assets/img/project3-online-shopping.png" width="500" height="600" />
@@ -117,7 +117,9 @@ Another variable to count was the unique number of orders. In this case, the dat
 
 ### Data Analysis
 Using a Pivot Table, first I calculated the Total Sales, the Total Number of Unique Orders, and the Total Number of Unique Customers. Then, I created a calculated field to estimate the Average Sales per Order, leaving the result with two decimals.
-
+Then, I added a slicer in the `order_year` to filter the Pivot Table and the final dashboard.
+  
+I used two pivot tables to calculate the total sales by quarter, and year using the `order_year` variable.  
 
 ### Excel formulas
 | Formula | Description | 
