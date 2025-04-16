@@ -29,10 +29,10 @@ Image from [storyset](https://storyset.com/search?q=online%20shopping)
 - [Methodology](#methodology)
   - [Data Source](#data-source)
   - [Tools](#tools)
-  - [Data Cleaning](#data-cleaning)
-  - [Data Transformation](#data-transformation)
-  - [Analysis](#analysis)
-    - [Data Visualisation](#data-visualisation)
+  - [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+  - [Data Analysis](#data-analysis)
+  - [Excel Formulae](#excel-formulae)
+  - [Data Visualisation](#data-visualisation)
 - [Insights](#insights)
 - [Action Plan](#action-plan)	 
 - [Excel Report](#excel-report)	
@@ -101,7 +101,6 @@ After importing the dataset into Excel and converting the file into an Excel Wor
 
 In most businesses, each customer is assigned a unique customer ID; however, this variable was missing in the dataset. By leveraging the `customer_name` variable, it was possible to identify unique customers using a conditional Excel formula that counts each time a new customer is added to the database. This new variable was named `customer_unique`. A similar approach was taken to count the unique number of orders. Using the `order_id` column, a conditional formula was applied to count unique order IDs. This newly created variable was named `order_unique`.
 
-
 ### Data Analysis
 The initial step involved estimating four KPIs using Pivot Tables: Total Sales (USD), Number of Unique Orders, and Number of Unique Customers. Additionally, a calculated field was created to estimate the Average Sales per Order (USD), with the result displayed to two decimal places.
 
@@ -113,7 +112,7 @@ For customer insights, a Pivot Table estimated the Total Sales (USD) for three s
 Finally, product insights were derived using Pivot Tables to review Total Sales (USD) by Product Category and Subcategory, as well as the Top 10 Best-Selling Products (USD).
 
 
-### Excel formulas
+### Excel formulae
 | Formula | Description | 
 | :--- | :--- |
 | `=YEAR([@[order_date]])` | Extract the Year from the order date |
@@ -122,7 +121,7 @@ Finally, product insights were derived using Pivot Tables to review Total Sales 
 . |
 | `Avg Sales per Order = sales/ order_unique ` | A calculated field used to estimate the average sales per order  |
 
-#### Data Visualisation
+### Data Visualisation
 
 From all the information derived from the pivot table, the next step was to create a series of visual to add to the Dahsboard. First, two slicers from `order_year` and `market` where added to filter the visuals.
 
@@ -131,6 +130,17 @@ The values from the four KPIs Total Sales (USD), Number of Unique Orders, Number
 To visualise the Sales Trend, two chats were added. A line chart with the Quarterly Breakdown of Total Sales (USD), and a bar chart with Annual Sales Performance in USD.
 
 ![dahsboard1](assets/img/project3_dahsboard1.png)
+
+To analyse regional performances a vertical and an horizontal bar chart helped to visuale the Market-Wise Breakdown of Total Sales in USD and the Top 10 Countries Leading in Total Sales (USD). 
+
+![dahsboard2](assets/img/project3_dahsboard2.png)
+
+For customers insights, two charts showed the Total Sales Distribution Across Customer Segments, and the Customer Preferences for Shipping Modes in terms of percentage of total.
+
+![dahsboard3](assets/img/project3_dahsboard3.png)
+
+Finally, for product insights a bar chart illustrated the Total Sales in USD by Product Category and Subcategory, and a table showed the Top 10 Best-Selling Products in USD
+![dahsboard4](assets/img/project3_dahsboard4.png)
 
 
 
