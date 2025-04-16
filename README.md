@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/76eeabf1-4b62-47e6-adda-ef36b44e2c09)# Superstore Sales Analysis
+# Superstore Sales Analysis
 An Excel-based project analysing sales data to uncover actionable insights and optimise marketing and sales strategies
 
 <img src="assets/img/project3-online-shopping.png" width="500" height="600" />
