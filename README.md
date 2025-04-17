@@ -47,10 +47,25 @@ An interactive dashboard will be developed to deliver actionable insights derive
 
 
 ### Key Findings
+From 2011 to 2014, total sales reached $12,642,905 USD across 25,035 unique orders, with an average order value of $505.01 USD. While no new unique customers were acquired during this period, both sales and order volumes showed consistent annual growth.  
 
+Notably, sales experienced a recurring decline in the final quarter of each year but rebounded in the subsequent year, contributing to an overall sales increase of $2,040,530, a remarkable 90% growth over the three years.  
+
+Geographically, Asia-Pacific (APAC), the United States (US), and Europe (EU) consistently emerged as the top-performing regions. Within these markets, the United States, Australia, and France led in the number of orders placed.  
+
+Customer behaviour insights revealed a strong preference for standard class shipping, driven by lower costs, and an inclination towards purchasing functional and versatile products such as chairs, phones, and storage items. The majority of customers comprised individuals shopping for personal use rather than organisational needs.  
 
 ### Recommendations
+Certainly, Alejandra! Here's a concise summary of the recommendations tailored for an executive summary:
 
+---
+
+**Recommendations**  
+1. **Customer Acquisition**: Introduce targeted marketing campaigns and referral incentives to attract new customers, particularly in top-performing regions like the United States, Australia, and France.  
+2. **Addressing Q4 Declines**: Mitigate recurring Q4 sales declines by launching early holiday campaigns, offering exclusive promotions, and bundling top-selling products (e.g., chairs, phones, and storage items) for seasonal appeal.  
+3. **Shipping and Product Strategy**: Enhance inventory management for high-demand products while promoting the cost-effectiveness of standard class shipping through discounts or loyalty rewards.  
+4. **Regional Optimisation**: Strengthen engagement in core markets (APAC, US, EU) with tailored promotions and explore potential growth in emerging nearby markets.  
+5. **Customer Retention**: Build loyalty through personalised rewards, customised product recommendations, and improved post-purchase support to reinforce repeat business.  
 
 ## Introduction
 ### Business Problem
@@ -161,7 +176,42 @@ Watch a brief video showcasing the full dashboard by clicking the following link
 ![insights3](assets/img/project3_insights3.png)
 
 ## Action plan
+A recommended action plan tailored to the trends and observations from the analysis:
 
+### 1. Customer Acquisition Strategy
+   - **Issue Identified**: No new unique customers since 2011.  
+   - **Implementation roadmap**:  
+     - Launch targeted marketing campaigns (e.g., social media, email) focused on acquiring new customers.  
+     - Offer referral incentives to existing customers for bringing in new buyers.  
+     - Partner with influencers or businesses in your top-performing regions (US, Australia, France) to reach untapped audiences.
+
+### 2. Boosting Sales in Q4
+   - **Issue Identified**: Declining sales during the last quarter of each year.  
+   - **Implementation roadmap**:  
+     - Implement Q4-exclusive promotions or discounts (e.g., holiday or end-of-year sales).  
+     - Begin pre-holiday marketing campaigns earlier to create anticipation.  
+     - Focus on top-performing product categories (chairs, phones, storage items) and bundle them for holiday gifting.  
+
+### 3. Product and Shipping Optimisation
+   - **Issue Identified**: Customers prefer affordable shipping and practical, versatile products.  
+   - **Implementation roadmap**:  
+     - Strengthen inventory of top-selling products (e.g., chairs, phones, storage items).  
+     - Offer discounts or loyalty points for selecting standard shipping to further encourage its use.  
+     - Explore partnerships with shipping companies to reduce overall delivery costs.
+
+### 4. Maximising Regional Performance
+   - **Insight**: APAC, US, and EU are top markets, and US, Australia, and France lead in orders.  
+   - **Implementation roadmap**:  
+     - Tailor region-specific promotions or exclusive product lines to reinforce loyalty in these markets.  
+     - Identify emerging markets near these regions for possible expansion (e.g., Canada, New Zealand, or nearby EU countries).  
+     - Conduct customer surveys to better understand regional preferences and adapt offerings accordingly.
+
+### 5. Customer Retention Initiatives
+   - **Insight**: Most clients are individual consumers.  
+   - **Implementation roadmap**:  
+     - Develop a customer loyalty programme with personalised rewards.  
+     - Offer personalised recommendations based on past purchases to encourage repeat orders.  
+     - Enhance post-purchase support to ensure customer satisfaction and strengthen brand loyalty.
 
 ## Excel Report
 To review the analysis in detail, you can download the Excel Report [here]().
