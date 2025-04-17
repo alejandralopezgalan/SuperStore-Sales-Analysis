@@ -208,4 +208,4 @@ A recommended action plan tailored to the trends and observations from the analy
      - Enhance post-purchase support to ensure customer satisfaction and strengthen brand loyalty.
 
 ## Excel Report
-To review the analysis in detail, you can download the Excel Report [here](https://github.com/alejandralopezgalan/SuperStore-Sales-Analysis/blob/main/assets/data/project3_superstore_orders_report.xlsx).
+To review the analysis in detail, you can download the Excel Report [here.](https://github.com/alejandralopezgalan/SuperStore-Sales-Analysis/blob/main/assets/data/project3_superstore_orders_report.xlsx).
