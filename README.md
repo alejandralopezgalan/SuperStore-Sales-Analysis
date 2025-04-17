@@ -56,11 +56,6 @@ Geographically, Asia-Pacific (APAC), the United States (US), and Europe (EU) con
 Customer behaviour insights revealed a strong preference for standard class shipping, driven by lower costs, and an inclination towards purchasing functional and versatile products such as chairs, phones, and storage items. The majority of customers comprised individuals shopping for personal use rather than organisational needs.  
 
 ### Recommendations
-Certainly, Alejandra! Here's a concise summary of the recommendations tailored for an executive summary:
-
----
-
-**Recommendations**  
 1. **Customer Acquisition**: Introduce targeted marketing campaigns and referral incentives to attract new customers, particularly in top-performing regions like the United States, Australia, and France.  
 2. **Addressing Q4 Declines**: Mitigate recurring Q4 sales declines by launching early holiday campaigns, offering exclusive promotions, and bundling top-selling products (e.g., chairs, phones, and storage items) for seasonal appeal.  
 3. **Shipping and Product Strategy**: Enhance inventory management for high-demand products while promoting the cost-effectiveness of standard class shipping through discounts or loyalty rewards.  
