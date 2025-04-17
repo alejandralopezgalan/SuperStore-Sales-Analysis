@@ -127,8 +127,7 @@ Finally, product insights were derived using Pivot Tables to review Total Sales 
 | :--- | :--- |
 | `=YEAR([@[order_date]])` | Extract the Year from the order date |
 | `=IF(COUNTIF(F$2:F2,F2)=1,1,0) ` | Count each unique customer. Assigns a value of 1 if the customer is unique and 0 if the customer is repeated.  |
-| `=IF(COUNTIF(A$2:A2,A2)=1,1,0) ` | Counts each unique `order_id`. Assigns a value of 1 if the `order_id` is unique and 0 if repeated
-. |
+| `=IF(COUNTIF(A$2:A2,A2)=1,1,0) ` | Counts each unique `order_id`. Assigns a value of 1 if the `order_id` is unique and 0 if repeated |
 | `Avg Sales per Order = sales/ order_unique` | A calculated field used to estimate the average sales per order  |
 
 ### Data Visualisation
