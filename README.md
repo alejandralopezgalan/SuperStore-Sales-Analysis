@@ -126,27 +126,39 @@ Finally, product insights were derived using Pivot Tables to review Total Sales 
 Using the insights derived from the pivot tables, the next step involved creating a series of visuals to include in the dashboard. First, two slicers for `order_year` and `market` were added to enable filtering across the visuals.
 The values from four KPIs—**Total Sales (USD), Number of Unique Orders, Number of Unique Customers,** and **Average Sales per Order (USD)**—were displayed at the top of the dashboard using four cards.
 To illustrate the **Sales Trend**, two charts were created: a line chart showing the **Quarterly Breakdown of Total Sales (USD)** and a bar chart depicting the **Annual Sales Performance (USD)**.
-![dahsboard1](assets/img/project3_dahsboard1.png)
+![dahsboard1](assets/img/project3_dashboard1.png)
 
 
 To analyse **Regional Performances**, a vertical bar chart was used to present the **Market-Wise Breakdown of Total Sales (USD)**, while a horizontal bar chart highlighted the **Top 10 Countries Leading in Total Sales (USD)**.
-![dahsboard2](assets/img/project3_dahsboard2.png)
+![dahsboard2](assets/img/project3_dashboard2.png)
 
 
 For **Customer Insights**, two charts were added: one showing the **Total Sales Distribution Across Customer Segments** and the other highlighting **Customer Preferences for Shipping Modes**, expressed as a percentage of total orders.
-![dahsboard3](assets/img/project3_dahsboard3.png)
+![dahsboard3](assets/img/project3_dashboard3.png)
 
 
 Finally, for **Product Insights**, a bar chart displayed the **Total Sales (USD) by Product Category and Subcategory**, accompanied by a table listing the **Top 10 Best-Selling Products (USD)**.
-![dahsboard4](assets/img/project3_dahsboard4.png)
+![dahsboard4](assets/img/project3_dashboard4.png)
 
 
 
 Watch a brief video showcasing the full dashboard by clicking the following link:
-[Dashboard video](https://drive.google.com/file/d/1hDjRS2fx8iYl6KYULPEj4oXTURPxnXnu/view?usp=sharing)
+[Dashboard video](https://drive.google.com/file/d/1LV4eHAoR0hDBdny-1K-f_2Kj_JbUOsyA/view?usp=sharing)
 
 ## Insights
-The Total Sales in USD dollars from 2011 to 2014 are $12,642,905, with 25,035 unique orders, 795 unique customers, and an Average Sales per Order of $505.01 USD.
+- Between 2011 and 2014, total sales reached $12,642,905 USD, generated from 25,035 unique orders placed by 795 customers, with an average order value of $505.01 USD 
+- According to the data, the Superstore has not acquired any new unique customers since 2011, but sales and the number of unique orders have steadily increased year after year.  
+- Over the past three years, sales consistently declined in the final quarter of each year; however, they tended to increase again in the following year.  
+- From 2011 to 2014, annual sales rose by $2,040,530, reflecting an impressive growth of approximately 90%.  
+- Asia-Pacific (APAC), the United States (US), and Europe (EU) consistently ranked as the top three markets, solidifying their status as the cornerstone of the Superstore's global success.  
+- During this period, the United States, Australia, and France led as the countries with the highest number of orders placed.  
+- Most customers are individuals purchasing goods or services for personal use rather than organisational needs.  
+- The majority of customers preferred lower shipping costs, opting for the standard class shipping mode.  
+- The top-selling products included chairs, phones, and storage items, showcasing customer preferences for functional and versatile items across various categories.  
+
+![insights1](assets/img/project3_insights1.png)
+![insights2](assets/img/project3_insights2.png)
+![insights3](assets/img/project3_insights3.png)
 
 ## Action plan
 
