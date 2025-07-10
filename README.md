@@ -46,7 +46,7 @@ Image from [storyset](https://storyset.com/search?q=online%20shopping)
 
 ## Executive Summary
 ### Primary Goal
-The objective is to analyse the Superstore dataset to uncover actionable insights that support strategic business decisions and enhance overall performance. By examining key metrics—such as sales trends, customer demographics, product categories, and regional activity—this analysis aims to identify meaningful patterns, reveal growth opportunities, and address operational inefficiencies.
+The objective is to analyse the Superstore dataset to uncover actionable insights that support strategic business decisions and enhance overall performance. By examining key metrics, such as sales trends, customer demographics, product categories, and regional activity, this analysis aims to identify meaningful patterns, reveal growth opportunities, and address operational inefficiencies.
 
 ### Solution
 To enable data-driven decision-making, an interactive dashboard will be developed to uncover insights from the Superstore dataset. Tailored for business stakeholders such as sales managers and marketing analysts, this dashboard will visualise:
