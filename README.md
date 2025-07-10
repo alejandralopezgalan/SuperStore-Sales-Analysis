@@ -64,11 +64,11 @@ The dashboard will empower users to detect patterns quickly, monitor growth driv
 - The majority of purchases were made by individual consumers, rather than businesses or organisations.
 
 ### Recommendations
-**- Customer Acquisition:** Introduce targeted marketing campaigns and referral incentives in high-performing regions (US, Australia, France) to attract new customers.
-**- Seasonal Sales Stability:** Address Q4 slumps with early festive promotions, bundled top-selling products, and seasonal marketing efforts.
-**- Shipping & Inventory Strategy:** Ensure availability for high-demand categories and amplify the benefits of standard class shipping through loyalty rewards.
-**- Regional Optimisation: **Strengthen outreach in core markets (APAC, US, EU) via tailored promotions and explore expansion into nearby emerging markets such as Latin America or Eastern Europe.
-**- Customer Retention:** Implement personalised loyalty tiers based on purchasing behaviour, offer customised product recommendations, and improve post-purchase support to encourage repeat business.
+- **Customer Acquisition:** Introduce targeted marketing campaigns and referral incentives in high-performing regions (US, Australia, France) to attract new customers.
+- **Seasonal Sales Stability:** Address Q4 slumps with early festive promotions, bundled top-selling products, and seasonal marketing efforts.
+- **Shipping & Inventory Strategy:** Ensure availability for high-demand categories and amplify the benefits of standard class shipping through loyalty rewards.
+- **Regional Optimisation: **Strengthen outreach in core markets (APAC, US, EU) via tailored promotions and explore expansion into nearby emerging markets such as Latin America or Eastern Europe.
+- **Customer Retention:** Implement personalised loyalty tiers based on purchasing behaviour, offer customised product recommendations, and improve post-purchase support to encourage repeat business.
 
 ## Introduction
 This analysis tackles core business challenges through the strategic interpretation of sales data. By leveraging customer segmentation, evaluating product performance, and exploring geographic trends, it identifies key growth levers and operational constraints. The aim is to develop bespoke strategies that enhance customer satisfaction, streamline operations, and drive profitability—laying the foundation for sustainable expansion through informed, data-led decision-making.
@@ -77,14 +77,12 @@ This analysis tackles core business challenges through the strategic interpretat
 The superstore is experiencing stagnation in customer acquisition and recurring sales declines in the fourth quarter of each year. Despite steady annual growth, no new customers were added between 2011 and 2014, posing a risk to long-term sustainability. Furthermore, demand for high-performing products (e.g., chairs, phones, and storage items) is not being fulfilled efficiently, whilst regional sales strategies lack precision. These issues constrain profitability and hinder expansion. This analysis seeks to uncover performance trends, customer segments, and regional opportunities to craft focused strategies that enhance acquisition, stabilise seasonal sales, and streamline operations.
 
 ### Goals
-**- Summarise Multi-Year Sales Performance:** Present a high-level overview of superstore sales trends from 2011 to 2014—total revenue, order volumes, average order value, and year-on-year growth—to contextualise historical performance.
-**- Highlight Revenue Drivers by Category and Region:** Identify which product categories (e.g. chairs, phones, storage) and regions (APAC, US, EU) contributed most to sales, helping stakeholders focus marketing and inventory efforts.
-**- Enable Dynamic Data Exploration:** Leverage Excel pivot tables, slicers, filters and timelines so users can interactively slice by year/quarter, region, customer segment, shipping class or product category.
-**- Reveal Seasonal and Temporal Patterns:** Analyse time-based trends to uncover recurring Q4 declines and Q1 rebounds—insights that guide promotional timing, inventory planning and holiday campaign design.
-**- Support Strategic Decision-Making:** Surface actionable visualisations on customer acquisition gaps, shipping preferences, and top markets to inform targeted campaigns, inventory optimisation and regional expansion.
-**- Create a Visually Intuitive Dashboard Experience:** Design a clean, coherent Excel dashboard layout with clear labels, logical grouping and straightforward navigation, ensuring accessibility for users of all data-literacy levels.
-**- Empower Customer Segmentation Analysis: **Integrate demographic and purchase-type filters to distinguish personal vs. organisational buyers, revealing high-value segments for tailored acquisition and retention strategies.
-**- Optimise Shipping Strategy Insights:** Chart shipping-class usage patterns and cost implications to recommend incentives that drive greater adoption of standard-class shipping and reduce fulfilment costs
+- **Summarise Multi-Year Sales Performance:** Present a high-level overview of superstore sales trends from 2011 to 2014—total revenue, order volumes, average order value, and year-on-year growth—to contextualise historical performance.
+- **Highlight Revenue Drivers by Category and Region:** Identify which product categories (e.g. chairs, phones, storage) and regions (APAC, US, EU) contributed most to sales, helping stakeholders focus marketing and inventory efforts.
+- **Support Strategic Decision-Making:** Surface actionable visualisations on customer acquisition gaps, shipping preferences, and top markets to inform targeted campaigns, inventory optimisation and regional expansion.
+- **Create a Visually Intuitive Dashboard Experience:** Design a clean, coherent Excel dashboard layout with clear labels, logical grouping and straightforward navigation, ensuring accessibility for users of all data-literacy levels.
+- **Empower Customer Segmentation Analysis: **Integrate demographic and purchase-type filters to distinguish personal vs. organisational buyers, revealing high-value segments for tailored acquisition and retention strategies.
+- **Optimise Shipping Strategy Insights:** Chart shipping-class usage patterns and cost implications to recommend incentives that drive greater adoption of standard-class shipping and reduce fulfilment costs
 
 
 ## Methodology
