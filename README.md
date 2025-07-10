@@ -67,7 +67,7 @@ The dashboard will empower users to detect patterns quickly, monitor growth driv
 - **Customer Acquisition:** Introduce targeted marketing campaigns and referral incentives in high-performing regions (US, Australia, France) to attract new customers.
 - **Seasonal Sales Stability:** Address Q4 slumps with early festive promotions, bundled top-selling products, and seasonal marketing efforts.
 - **Shipping & Inventory Strategy:** Ensure availability for high-demand categories and amplify the benefits of standard class shipping through loyalty rewards.
-- **Regional Optimisation: **Strengthen outreach in core markets (APAC, US, EU) via tailored promotions and explore expansion into nearby emerging markets such as Latin America or Eastern Europe.
+- **Regional Optimisation:** Strengthen outreach in core markets (APAC, US, EU) via tailored promotions and explore expansion into nearby emerging markets such as Latin America or Eastern Europe.
 - **Customer Retention:** Implement personalised loyalty tiers based on purchasing behaviour, offer customised product recommendations, and improve post-purchase support to encourage repeat business.
 
 ## Introduction
