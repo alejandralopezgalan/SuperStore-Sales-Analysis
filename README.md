@@ -81,7 +81,7 @@ The superstore is experiencing stagnation in customer acquisition and recurring 
 - **Highlight Revenue Drivers by Category and Region:** Identify which product categories (e.g. chairs, phones, storage) and regions (APAC, US, EU) contributed most to sales, helping stakeholders focus marketing and inventory efforts.
 - **Support Strategic Decision-Making:** Surface actionable visualisations on customer acquisition gaps, shipping preferences, and top markets to inform targeted campaigns, inventory optimisation and regional expansion.
 - **Create a Visually Intuitive Dashboard Experience:** Design a clean, coherent Excel dashboard layout with clear labels, logical grouping and straightforward navigation, ensuring accessibility for users of all data-literacy levels.
-- **Empower Customer Segmentation Analysis: **Integrate demographic and purchase-type filters to distinguish personal vs. organisational buyers, revealing high-value segments for tailored acquisition and retention strategies.
+- **Empower Customer Segmentation Analysis:** Integrate demographic and purchase-type filters to distinguish personal vs. organisational buyers, revealing high-value segments for tailored acquisition and retention strategies.
 - **Optimise Shipping Strategy Insights:** Chart shipping-class usage patterns and cost implications to recommend incentives that drive greater adoption of standard-class shipping and reduce fulfilment costs
 
 
