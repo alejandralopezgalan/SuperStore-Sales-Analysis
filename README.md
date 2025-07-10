@@ -11,7 +11,9 @@ Image from [storyset](https://storyset.com/search?q=online%20shopping)
 >
 > Original Project:
 > 
-> Title: Data Analysis Project in Excel - Build Interactive Dashboard. Author: Karina Samsonova Platform: [YouTube](https://www.youtube.com/watch?v=U0I3HEnTAWk&ab_channel=KarinaDataScientist)
+> Title: Data Analysis Project in Excel - Build Interactive Dashboard.
+> Author: Karina Samsonova.
+> Platform: [YouTube](https://www.youtube.com/watch?v=U0I3HEnTAWk&ab_channel=KarinaDataScientist)
 >
 > This project enhanced my analytical capabilities and expanded my proficiency in data visualisation. Full recognition for the original concept and methodological approach belongs to Karina Samsonova. Her work can be explored further via her [YouTube Channel](https://www.youtube.com/@karinadatascientist) and [LinkedIn](https://www.linkedin.com/in/karina-samsonova/) profile.
 <br/>
