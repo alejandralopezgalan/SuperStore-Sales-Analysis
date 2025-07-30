@@ -57,7 +57,7 @@ The dashboard will empower users to detect patterns quickly, monitor growth driv
 
 supporting improved strategic outcomes.
 
-### Key Findings
+### Key Findings and Recommendations
 <table>
     <thead>
         <tr>
