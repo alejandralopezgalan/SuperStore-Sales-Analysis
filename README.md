@@ -70,33 +70,33 @@ supporting improved strategic outcomes.
         <tr>
             <td>Between 2011–2014, total sales reached $12,642,905 USD across 25,035 unique orders, with an average order value of $505.01 USD.</td>
             <td>Examine if order values or volumes spike during specific periods to align promotions or inventory planning with demand cycles.</td>
-            <td><img src="assets/img/project3_finding1.png"></img></td>
+            <td><img src="assets/img/project3_finding1.png"></img><a href="https://github.com/alejandralopezgalan/SuperStore-Sales-Analysis/blob/main/assets/img/project3_finding1.png">Fig.1</a></td>
         </tr>
         <tr>
             <td>While overall annual growth was substantial (+90% over three years), no new customers were acquired—potentially due to dataset constraints or insufficient outreach.</td>
             <td>Investigate the dataset’s scope and ensure customer ID tracking is accurate. Missing identifiers may falsely suggest zero acquisition.</td>
-            <td><img src="assets/img/project3_finding2.png"></img></td>
+            <td><img src="assets/img/project3_finding2.png"></img><a href="https://github.com/alejandralopezgalan/SuperStore-Sales-Analysis/blob/main/assets/img/project3_finding2.png">Fig.2</a></td>
         </tr>
         <tr>
             <td>A recurring Q4 downturn was identified each year, followed by a rebound in early Q1.</td>
             <td>Address Q4 slumps with early festive promotions, bundled top-selling products, and seasonal marketing efforts. </td>
-            <td><img src="assets/img/project3_finding3.png"></img> </td>
+            <td><img src="assets/img/project3_finding3.png"></img><a href="https://github.com/alejandralopezgalan/SuperStore-Sales-Analysis/blob/main/assets/img/project3_finding3.png">Fig.3</a></td>
         </tr>
         <tr>
             <td>Top-performing regions included Asia-Pacific (APAC), United States (US), and Europe (EU). Within these, the US, Australia, and France led in order volume.</td>
             <td>Introduce targeted marketing campaigns and referral incentives in high-performing regions (US, Australia, France) to attract new customers.<br> 
               Strengthen outreach in core markets (APAC, US, EU) via tailored promotions and explore expansion into nearby emerging markets such as Latin America or Eastern Europe.</td>
-            <td><img src="assets/img/project3_finding4.png"></img></td>
+            <td><img src="assets/img/project3_finding4.png"></img><a href="https://github.com/alejandralopezgalan/SuperStore-Sales-Analysis/blob/main/assets/img/project3_finding4.png">Fig.4</a></td>
         </tr>
         <tr>
             <td>Customers favoured standard class shipping due to its affordability, and consistently selected practical products such as chairs, phones, and storage items.</td>
             <td>Ensure availability for high-demand categories and amplify the benefits of standard class shipping through loyalty rewards.</td>
-            <td><img src="assets/img/project3_finding5.png"></td>
+            <td><img src="assets/img/project3_finding5.png"></img><a href="https://github.com/alejandralopezgalan/SuperStore-Sales-Analysis/blob/main/assets/img/project3_finding5.png">Fig.5</a></td>
         </tr>
         <tr> 
             <td>The majority of purchases were made by individual consumers, rather than businesses or organisations.</td>
             <td>Implement personalised loyalty tiers based on purchasing behaviour, offer customised product recommendations, and improve post-purchase support to encourage repeat business. </td>
-            <td><img src="assets/img/project3_finding6.png"></td>
+            <td><img src="assets/img/project3_finding6.png"></img><a href="https://github.com/alejandralopezgalan/SuperStore-Sales-Analysis/blob/main/assets/img/project3_finding6.png">Fig.6</a></td>
         </tr>
     </tbody>
 </table>
